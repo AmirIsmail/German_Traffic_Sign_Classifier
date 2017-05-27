@@ -143,6 +143,14 @@ Here are the results of the prediction:
 
 The model was able to correctly guess 2 of the 5 traffic signs, which gives an accuracy of 40%. This is because the chosen images from the web were not of the same resolution as the training dataset.
 
+the first prediction had a certantity of 91% yet got the prediction completely wrong
+the second prediction had a certantity of 93% yet also got the prediction wrong
+the third prediction had a certantity of 98% yet got it wrong as well
+the fourth prediciton had a certantity of 60% and the prediciton was correct
+the fith predicion had a certatntiy of 99% and also was correct
+
+
+
 ####3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
 The code for making predictions on my final model is located in the 11th cell of the Ipython notebook.
